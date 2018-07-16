@@ -1,0 +1,2 @@
+exports.token = (req, res) => {
+};

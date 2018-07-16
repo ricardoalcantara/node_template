@@ -1,0 +1,3 @@
+exports.getObj = () => ({
+    name: 'ricardo'
+});
